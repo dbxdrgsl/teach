@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 
 
-👤 Maintained by [Your Name](https://github.com/your-username)  
+👤 Maintained by [dbxdrgsl](https://github.com/dbxdrgsl)  
 📬 Contributions and suggestions are welcome!
