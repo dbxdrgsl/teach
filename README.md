@@ -1,6 +1,3 @@
-## 🧭 Overview
-This project is dedicated to supporting educators in delivering clear, engaging, and curriculum-aligned content in Informatics and ICT, primarily for middle and high school students. Materials are structured by grade level and topic, following the Romanian national curriculum.
-
 ## 🧭 Purpose
 This repository helps Informatics teachers:
 - Follow the Romanian curriculum more efficiently
@@ -11,6 +8,9 @@ This repository helps Informatics teachers:
 - Gymnasium school Informatics and ICT teachers (grades 5–8)
 - Beginning educators looking for ready-made resources
 - Anyone building a national curriculum-aligned course
+
+## 🧭 Overview
+This project is dedicated to supporting educators in delivering clear, engaging, and curriculum-aligned content in Informatics and ICT, primarily for middle and high school students. Materials are structured by grade level and topic, following the Romanian national curriculum.
 
 ## ✍️ Contents
 - [`plan/`](./plan/) – Lesson plans by grade and module  
